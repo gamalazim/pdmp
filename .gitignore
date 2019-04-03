@@ -1,0 +1,6 @@
+# Ignore all the following
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+

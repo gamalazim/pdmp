@@ -1,0 +1,12 @@
+Package: pdmp
+Type: Package
+Title: Pedigree Data Management
+Version: 0.1.0
+Date: 2016-10-01
+Authors@R: c(person(given="Gamal", family="Abdel-Azim", role = c("aut", "cre"), email = "gamal.azim@gmail.com"))
+Maintainer: Gamal Abdel-Azim <gamal.azim@gmail.com>
+Description: Manage, transform, and  analyze complex pedigree data. Tools to build numerator, gametic, and genomic relationship matrices.
+Depends: gdmp, methods, R(>= 2.6.0)
+License: GPL (>= 2)
+LazyData: TRUE
+RoxygenNote: 5.0.1
